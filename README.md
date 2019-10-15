@@ -5,11 +5,10 @@
   The next step I am going to do is to choose a open-source software. There are multiple softwares for me to learn. Here I choose Tensorflow to start, it is developed by Google and also widely used in deep learning now.<br/>
   For this project, my goal is to learn some basic operations in TensorFlow and try to use it to detect images & images classification.<br/>
 Tensorflow provides me with good examples to start learning.<br/>
-<br/>
-This code is going to practice the basic image classification. It uses the __Fashion MNIST__ dataset with low resolutions to classify. 60,000 images are used to train the network and 10,000 images to evaluate how accurately the network learned to classify images. 
-There are 9 classes here for me to classify: 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot'
-For results: correct predictions are marked "blue", incorrect predictions are marked "red"
-The screenshots for result and accuray are shown below.
+This code is going to practice the basic image classification. It uses the __Fashion MNIST__ dataset with low resolutions to classify. 60,000 images are used to train the network and 10,000 images to evaluate how accurately the network learned to classify images. <br/>
+There are 9 classes here for me to classify: 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot'<br/>
+For results: correct predictions are marked "blue", incorrect predictions are marked "red"<br/>
+The screenshots for result and accuray are shown below.<br/>
 ![result](https://github.com/Yufeng-L/MiniProject2/blob/master/trainresults.png)
 
 ![accuracy](https://github.com/Yufeng-L/MiniProject2/blob/master/testaccuracy.png)
