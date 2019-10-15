@@ -7,9 +7,9 @@
 Tensorflow provides me with good examples to start learning.<br/>
 <br/>
 This code is going to practice the basic image classification. It uses the __Fashion MNIST__ dataset with low resolutions to classify. 60,000 images are used to train the network and 10,000 images to evaluate how accurately the network learned to classify images. The screenshots for result and accuray are shown below.
-[!result] (https://github.com/Yufeng-L/MiniProject2/blob/master/trainresults.png)
+![result](https://github.com/Yufeng-L/MiniProject2/blob/master/trainresults.png)
 
-[!accuracy] (https://github.com/Yufeng-L/MiniProject2/blob/master/testaccuracy.png)
+![accuracy](https://github.com/Yufeng-L/MiniProject2/blob/master/testaccuracy.png)
 
 ### Reference:
 https://en.wikipedia.org/wiki/Machine_learning <br/>
