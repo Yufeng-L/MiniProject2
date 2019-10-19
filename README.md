@@ -1,5 +1,6 @@
 # Machine Learning (Miniproject2)
 
+### Report
   I chose the topic of machine learning for my miniproject2 since it is popular and widely used in such as the field of computer vision. Before then, I learn nothing about Machine Learning so it’s a good opportunity for me to explore some new knowledge.<br/>
   The first thing I know to learn is the definition of Machine Learning. It is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of Artificial intelligence. The algorithms of Machine Learning build a mathematical model based on the sample data, known as “training data”, in order to make predictions or decisions without being explicitly programmed to perform the task. <br/>
   The next step I am going to do is to choose a open-source software. There are multiple softwares for me to learn. Here I choose Tensorflow to start, it is developed by Google and also widely used in deep learning now.<br/>
@@ -9,8 +10,9 @@ This code is going to practice the basic image classification. It uses the __Fas
 There are 9 classes here for me to classify: 'T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat', 'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot'<br/>
 For results: correct predictions are marked "blue", incorrect predictions are marked "red"<br/>
 The screenshots for result and accuray are shown below.<br/>
+### Screnshot of Result
 ![result](https://github.com/Yufeng-L/MiniProject2/blob/master/trainresults.png)
-
+### Screenshot of Accuracy
 ![accuracy](https://github.com/Yufeng-L/MiniProject2/blob/master/testaccuracy.png)
 
 ### Reference:
