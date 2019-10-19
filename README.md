@@ -15,5 +15,19 @@ The screenshots for result and accuray are shown below.<br/>
 
 ### Reference:
 https://en.wikipedia.org/wiki/Machine_learning <br/>
-https://www.tensorflow.org/tutorials/keras/classification <br/>
+https://www.tensorflow.org/tutorials/keras/classification <br
+
+## Summary of others Reports：
+
+### Qi Luxuan's Report:
+The topic is unsupervised machine learning.Comparing with the category I used in project1, unsupervised learning do not requrie any tags & labels. It classifies data sets by learning those unlabeled data and revealing the laws and characteristics that exist in the data. However, sometimes it can not yield satisfactory results which are often inferior to supervised learning. So unsupervised learning is primarily used to process unlabeled data sets. It also contains a variety processing methods such as K-means algorithm, hierarchical clustering algorithm, etc.
+
+### Yuan Wei's Report:
+He generally introduces object segmentation which is a subset of computer vision. It uses machine learning algorithm to deal with problems. It basically uses numbers to represent different objects of an image. In this topic, he mainly focused on how to segement an image. Machine learning method for object segmentation contains upsampling method, fully convolutional networks with other improved method, and dilated/atrous convolution. It needs some background of R, python and statistics methods.
+
+### Xia Yaqun's Report:
+Similar to Qi Luxuan's report, yaqun's report is also about unsupervised machine learning. For pros, less complexity in comparison with supervised learning.In unsupervised learning, no one is required to understand and then to label the data inputs. This makes unsupervised learning less complex and explains why many people prefer unsupervised techniques. It can take place in real time and help learners understand different models of raw data. For cons, it has less accuracy comparing to supervised learning as mentioned above and the results of analysis can not be ascertained because there is no prior knowledge in this category.
+
+### Jiang Lingtao's Report:
+His report is about image recognition. In order to analyze images, the encoding is transformed into constructs to depict the physical features of the objects. After then computers will analyze these constructions automatically by classification and feature extraction. Image classification consists of several steps including simplify image by extracting key feature of object and generating feature vectors and output class label. Predictive module is needed and traning data will be fed into module to recognize image. He also introduces YOLO, a image dector algorithm which has high speed for image processing.
 
