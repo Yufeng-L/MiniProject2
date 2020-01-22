@@ -1,4 +1,4 @@
-# Machine Learning (Miniproject2)
+# Learning Image Classification
 
 ### Report
   I chose the topic of machine learning for my miniproject2 since it is popular and widely used in such as the field of computer vision. Before then, I learn nothing about Machine Learning so it’s a good opportunity for me to explore some new knowledge.<br/>
